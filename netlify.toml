@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/api/v1"
+  to = "https://solely-ecommerce-backend.onrender.com/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
